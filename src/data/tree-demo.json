@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "time": "2020-01-01 12:00:00 UTC",
+    "root": ".",
+    "uploader": {
+      "name": "Console",
+      "uuid": "00000000-0000-0000-0000-000000000000"
+    }
+  },
+  "data": {
+    "tree": {
+      "craftbukkit": {},
+      "bukkit": {
+        "bukkit.broadcast": {
+          "bukkit.broadcast.admin": {},
+          "bukkit.broadcast.user": {}
+        },
+        "bukkit.command": {
+          "bukkit.command.heap": {},
+          "bukkit.command.plugins": {},
+          "bukkit.command.reload": {},
+          "bukkit.command.version": {}
+        }
+      },
+      "aquaperms": {
+        "aquaperms.applyedits": {},
+        "aquaperms.bulkupdate": {},
+        "aquaperms.check": {},
+        "aquaperms.creategroup": {},
+        "aquaperms.createtrack": {},
+        "aquaperms.debug": {},
+        "aquaperms.deletegroup": {},
+        "aquaperms.deletetrack": {},
+        "aquaperms.editor": {},
+        "aquaperms.export": {},
+        "aquaperms.import": {},
+        "aquaperms.info": {},
+        "aquaperms.listgroups": {},
+        "aquaperms.listtracks": {},
+        "aquaperms.migration": {},
+        "aquaperms.reloadconfig": {},
+        "aquaperms.search": {},
+        "aquaperms.sync": {},
+        "aquaperms.tree": {},
+        "aquaperms.verbose": {},
+        "aquaperms.group": {
+          "aquaperms.group.clear": {},
+          "aquaperms.group.clone": {},
+          "aquaperms.group.editor": {},
+          "aquaperms.group.info": {},
+          "aquaperms.group.listmembers": {},
+          "aquaperms.group.rename": {},
+          "aquaperms.group.setdisplayname": {},
+          "aquaperms.group.setweight": {},
+          "aquaperms.group.showtracks": {},
+          "aquaperms.group.meta": {
+            "aquaperms.group.meta.addprefix": {},
+            "aquaperms.group.meta.addsuffix": {},
+            "aquaperms.group.meta.addtempprefix": {},
+            "aquaperms.group.meta.addtempsuffix": {},
+            "aquaperms.group.meta.clear": {},
+            "aquaperms.group.meta.info": {},
+            "aquaperms.group.meta.removeprefix": {},
+            "aquaperms.group.meta.removesuffix": {},
+            "aquaperms.group.meta.removetempprefix": {},
+            "aquaperms.group.meta.removetempsuffix": {},
+            "aquaperms.group.meta.set": {},
+            "aquaperms.group.meta.setprefix": {},
+            "aquaperms.group.meta.setsuffix": {},
+            "aquaperms.group.meta.settemp": {},
+            "aquaperms.group.meta.settempprefix": {},
+            "aquaperms.group.meta.settempsuffix": {},
+            "aquaperms.group.meta.unset": {},
+            "aquaperms.group.meta.unsettemp": {}
+          },
+          "aquaperms.group.parent": {
+            "aquaperms.group.parent.add": {},
+            "aquaperms.group.parent.addtemp": {},
+            "aquaperms.group.parent.clear": {},
+            "aquaperms.group.parent.cleartrack": {},
+            "aquaperms.group.parent.info": {},
+            "aquaperms.group.parent.remove": {},
+            "aquaperms.group.parent.removetemp": {},
+            "aquaperms.group.parent.set": {},
+            "aquaperms.group.parent.settrack": {}
+          },
+          "aquaperms.group.permission": {
+            "aquaperms.group.permission.check": {},
+            "aquaperms.group.permission.checkinherits": {},
+            "aquaperms.group.permission.clear": {},
+            "aquaperms.group.permission.info": {},
+            "aquaperms.group.permission.set": {},
+            "aquaperms.group.permission.settemp": {},
+            "aquaperms.group.permission.unset": {},
+            "aquaperms.group.permission.unsettemp": {}
+          }
+        },
+        "aquaperms.log": {
+          "aquaperms.log.grouphistory": {},
+          "aquaperms.log.notify": {},
+          "aquaperms.log.recent": {},
+          "aquaperms.log.search": {},
+          "aquaperms.log.trackhistory": {},
+          "aquaperms.log.userhistory": {}
+        },
+        "aquaperms.sponge": {
+          "aquaperms.sponge.option": {
+            "aquaperms.sponge.option.clear": {},
+            "aquaperms.sponge.option.info": {},
+            "aquaperms.sponge.option.set": {},
+            "aquaperms.sponge.option.unset": {}
+          },
+          "aquaperms.sponge.parent": {
+            "aquaperms.sponge.parent.add": {},
+            "aquaperms.sponge.parent.clear": {},
+            "aquaperms.sponge.parent.info": {},
+            "aquaperms.sponge.parent.remove": {}
+          },
+          "aquaperms.sponge.permission": {
+            "aquaperms.sponge.permission.clear": {},
+            "aquaperms.sponge.permission.info": {},
+            "aquaperms.sponge.permission.set": {}
+          }
+        },
+        "aquaperms.track": {
+          "aquaperms.track.append": {},
+          "aquaperms.track.clear": {},
+          "aquaperms.track.clone": {},
+          "aquaperms.track.info": {},
+          "aquaperms.track.insert": {},
+          "aquaperms.track.remove": {},
+          "aquaperms.track.rename": {}
+        },
+        "aquaperms.user": {
+          "aquaperms.user.clear": {},
+          "aquaperms.user.clone": {},
+          "aquaperms.user.demote": {},
+          "aquaperms.user.editor": {},
+          "aquaperms.user.info": {},
+          "aquaperms.user.promote": {},
+          "aquaperms.user.showtracks": {},
+          "aquaperms.user.meta": {
+            "aquaperms.user.meta.addprefix": {},
+            "aquaperms.user.meta.addsuffix": {},
+            "aquaperms.user.meta.addtempprefix": {},
+            "aquaperms.user.meta.addtempsuffix": {},
+            "aquaperms.user.meta.clear": {},
+            "aquaperms.user.meta.info": {},
+            "aquaperms.user.meta.removeprefix": {},
+            "aquaperms.user.meta.removesuffix": {},
+            "aquaperms.user.meta.removetempprefix": {},
+            "aquaperms.user.meta.removetempsuffix": {},
+            "aquaperms.user.meta.set": {},
+            "aquaperms.user.meta.setprefix": {},
+            "aquaperms.user.meta.setsuffix": {},
+            "aquaperms.user.meta.settemp": {},
+            "aquaperms.user.meta.settempprefix": {},
+            "aquaperms.user.meta.settempsuffix": {},
+            "aquaperms.user.meta.unset": {},
+            "aquaperms.user.meta.unsettemp": {}
+          },
+          "aquaperms.user.parent": {
+            "aquaperms.user.parent.add": {},
+            "aquaperms.user.parent.addtemp": {},
+            "aquaperms.user.parent.clear": {},
+            "aquaperms.user.parent.cleartrack": {},
+            "aquaperms.user.parent.info": {},
+            "aquaperms.user.parent.remove": {},
+            "aquaperms.user.parent.removetemp": {},
+            "aquaperms.user.parent.set": {},
+            "aquaperms.user.parent.settrack": {},
+            "aquaperms.user.parent.switchprimarygroup": {}
+          },
+          "aquaperms.user.permission": {
+            "aquaperms.user.permission.check": {},
+            "aquaperms.user.permission.checkinherits": {},
+            "aquaperms.user.permission.clear": {},
+            "aquaperms.user.permission.info": {},
+            "aquaperms.user.permission.set": {},
+            "aquaperms.user.permission.settemp": {},
+            "aquaperms.user.permission.unset": {},
+            "aquaperms.user.permission.unsettemp": {}
+          }
+        }
+      },
+      "minecraft": {
+        "minecraft.admin": {
+          "minecraft.admin.command_feedback": {}
+        },
+        "minecraft.command": {
+          "minecraft.command.defaultgamemode": {},
+          "minecraft.command.effect": {},
+          "minecraft.command.gamemode": {},
+          "minecraft.command.give": {},
+          "minecraft.command.heap": {},
+          "minecraft.command.kick": {},
+          "minecraft.command.kill": {},
+          "minecraft.command.list": {},
+          "minecraft.command.me": {},
+          "minecraft.command.msg": {},
+          "minecraft.command.say": {},
+          "minecraft.command.seed": {},
+          "minecraft.command.selector": {},
+          "minecraft.command.stop": {},
+          "minecraft.command.teleport": {},
+          "minecraft.command.toggledownfall": {},
+          "minecraft.command.trigger": {},
+          "minecraft.command.xp": {}
+        },
+        "minecraft.debugstick": {
+          "minecraft.debugstick.always": {}
+        },
+        "minecraft.nbt": {
+          "minecraft.nbt.copy": {},
+          "minecraft.nbt.place": {}
+        }
+      }
+    }
+  }
+}
