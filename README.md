@@ -1,7 +1,7 @@
 # AquaPermsWeb
 [![Discord](https://img.shields.io/discord/241667244927483904.svg?logo=discord&label=)](https://discord.gg/xWNVTE7rp8)
 
-[AquaPerms](https://github.com/XTHESilent/AquaPermsWeb) is a permission plugin for Minecraft servers, written in Java.
+[AquaPerms](https://github.com/XTHESilent/AquaPerms) is a permission plugin for Minecraft servers, written in Java.
 
 AquaPermsWeb (this repository) contains the website for the project and a number of web apps which supplement the plugin, all written in HTML/JavaScript using the [Vue](https://vuejs.org/) framework.
 
