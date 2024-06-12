@@ -18,7 +18,7 @@ Contributions are greatly appreciated! Just make a pull request with your change
 #### Cloning
 Use the following command to clone (and include the wiki submodule):
 ```sh
-git clone --recursive https://github.com/XTHESilent/AquaPermsWeb.git
+git clone https://github.com/XTHESilent/AquaPermsWeb.git
 ```
 
 #### Setup
